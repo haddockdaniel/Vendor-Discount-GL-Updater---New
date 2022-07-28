@@ -1,0 +1,75 @@
+C:\Utils\.Net Juris Utils\Juris Utility Base\JurisUtilityBase\bin\x86\Release\JurisUtility.exe.config
+C:\Utils\.Net Juris Utils\Juris Utility Base\JurisUtilityBase\obj\x86\Release\JurisUtilityBase.csproj.ResolveComReference.cache
+C:\Utils\.Net Juris Utils\Juris Utility Base\JurisUtilityBase\bin\x86\Release\JurisUtility.exe.manifest
+C:\Utils\.Net Juris Utils\Juris Utility Base\JurisUtilityBase\bin\x86\Release\JurisUtility.application
+C:\Utils\.Net Juris Utils\Juris Utility Base\JurisUtilityBase\bin\x86\Release\JurisUtility.exe
+C:\Utils\.Net Juris Utils\Juris Utility Base\JurisUtilityBase\bin\x86\Release\JurisUtility.pdb
+C:\Utils\.Net Juris Utils\Juris Utility Base\JurisUtilityBase\bin\x86\Release\C1.C1Report.4.dll
+C:\Utils\.Net Juris Utils\Juris Utility Base\JurisUtilityBase\bin\x86\Release\C1.Win.C1Input.4.dll
+C:\Utils\.Net Juris Utils\Juris Utility Base\JurisUtilityBase\bin\x86\Release\C1.Win.C1Report.4.dll
+C:\Utils\.Net Juris Utils\Juris Utility Base\JurisUtilityBase\bin\x86\Release\Gizmox.Extensions.dll
+C:\Utils\.Net Juris Utils\Juris Utility Base\JurisUtilityBase\bin\x86\Release\Ionic.Zlib.dll
+C:\Utils\.Net Juris Utils\Juris Utility Base\JurisUtilityBase\bin\x86\Release\JurisAuthenticator.dll
+C:\Utils\.Net Juris Utils\Juris Utility Base\JurisUtilityBase\bin\x86\Release\JurisDBO21.dll
+C:\Utils\.Net Juris Utils\Juris Utility Base\JurisUtilityBase\bin\x86\Release\JurisIDef21.dll
+C:\Utils\.Net Juris Utils\Juris Utility Base\JurisUtilityBase\bin\x86\Release\JurisStr21.dll
+C:\Utils\.Net Juris Utils\Juris Utility Base\JurisUtilityBase\bin\x86\Release\JurisStr221.dll
+C:\Utils\.Net Juris Utils\Juris Utility Base\JurisUtilityBase\bin\x86\Release\JurisSVR21.dll
+C:\Utils\.Net Juris Utils\Juris Utility Base\JurisUtilityBase\obj\x86\Release\JurisUtilityBase.csprojResolveAssemblyReference.cache
+C:\Utils\.Net Juris Utils\Juris Utility Base\JurisUtilityBase\obj\x86\Release\JurisUtilityBase.UtilityBaseMain.resources
+C:\Utils\.Net Juris Utils\Juris Utility Base\JurisUtilityBase\obj\x86\Release\JurisUtilityBase.Properties.Resources.resources
+C:\Utils\.Net Juris Utils\Juris Utility Base\JurisUtilityBase\obj\x86\Release\JurisUtilityBase.SplashScreen.resources
+C:\Utils\.Net Juris Utils\Juris Utility Base\JurisUtilityBase\obj\x86\Release\JurisUtilityBase.csproj.GenerateResource.Cache
+C:\Utils\.Net Juris Utils\Juris Utility Base\JurisUtilityBase\obj\x86\Release\JurisUtility.exe.manifest
+C:\Utils\.Net Juris Utils\Juris Utility Base\JurisUtilityBase\obj\x86\Release\JurisUtility.application
+C:\Utils\.Net Juris Utils\Juris Utility Base\JurisUtilityBase\obj\x86\Release\JurisUtility.exe
+C:\Utils\.Net Juris Utils\Juris Utility Base\JurisUtilityBase\obj\x86\Release\JurisUtility.pdb
+D:\Projects\Vendor Discount GL Updater\JurisUtilityBase\obj\x86\Release\JurisUtilityBase.csproj.AssemblyReference.cache
+D:\Projects\Vendor Discount GL Updater\JurisUtilityBase\obj\x86\Release\JurisUtilityBase.csproj.ResolveComReference.cache
+D:\Projects\Vendor Discount GL Updater\JurisUtilityBase\obj\x86\Release\JurisUtilityBase.PrinterDialog.resources
+D:\Projects\Vendor Discount GL Updater\JurisUtilityBase\obj\x86\Release\JurisUtilityBase.UtilityBaseMain.resources
+D:\Projects\Vendor Discount GL Updater\JurisUtilityBase\obj\x86\Release\JurisUtilityBase.Properties.Resources.resources
+D:\Projects\Vendor Discount GL Updater\JurisUtilityBase\obj\x86\Release\JurisUtilityBase.SplashScreen.resources
+D:\Projects\Vendor Discount GL Updater\JurisUtilityBase\obj\x86\Release\JurisUtilityBase.csproj.GenerateResource.cache
+D:\Projects\Vendor Discount GL Updater\JurisUtilityBase\obj\x86\Release\JurisUtilityBase.csproj.CoreCompileInputs.cache
+D:\Projects\Vendor Discount GL Updater\JurisUtilityBase\obj\x86\Release\JPS - Vendor GL Discount Account Updater.exe
+D:\Projects\Vendor Discount GL Updater\JurisUtilityBase\obj\x86\Release\JPS - Vendor GL Discount Account Updater.pdb
+D:\Projects\Vendor Discount GL Updater\JurisUtilityBase\bin\x86\Release\JPS - Vendor GL Discount Account Updater.exe.config
+D:\Projects\Vendor Discount GL Updater\JurisUtilityBase\bin\x86\Release\JPS - Vendor GL Discount Account Updater.exe.manifest
+D:\Projects\Vendor Discount GL Updater\JurisUtilityBase\bin\x86\Release\JPS - Vendor GL Discount Account Updater.application
+D:\Projects\Vendor Discount GL Updater\JurisUtilityBase\bin\x86\Release\JPS - Vendor GL Discount Account Updater.exe
+D:\Projects\Vendor Discount GL Updater\JurisUtilityBase\bin\x86\Release\JPS - Vendor GL Discount Account Updater.pdb
+D:\Projects\Vendor Discount GL Updater\JurisUtilityBase\bin\x86\Release\Gizmox.Extensions.dll
+D:\Projects\Vendor Discount GL Updater\JurisUtilityBase\bin\x86\Release\Ionic.Zlib.dll
+D:\Projects\Vendor Discount GL Updater\JurisUtilityBase\bin\x86\Release\JurisAuthenticator.dll
+D:\Projects\Vendor Discount GL Updater\JurisUtilityBase\bin\x86\Release\JurisDBO21.dll
+D:\Projects\Vendor Discount GL Updater\JurisUtilityBase\bin\x86\Release\JurisIDef21.dll
+D:\Projects\Vendor Discount GL Updater\JurisUtilityBase\bin\x86\Release\JurisStr21.dll
+D:\Projects\Vendor Discount GL Updater\JurisUtilityBase\bin\x86\Release\JurisStr221.dll
+D:\Projects\Vendor Discount GL Updater\JurisUtilityBase\bin\x86\Release\JurisSVR21.dll
+D:\Projects\Vendor Discount GL Updater\JurisUtilityBase\bin\x86\Release\ActiveReports6.dll
+D:\Projects\Vendor Discount GL Updater\JurisUtilityBase\bin\x86\Release\ActiveReports.Document.dll
+D:\Projects\Vendor Discount GL Updater\JurisUtilityBase\bin\x86\Release\C1.Win.C1Input.4.dll
+D:\Projects\Vendor Discount GL Updater\JurisUtilityBase\bin\x86\Release\C1.C1Report.4.dll
+D:\Projects\Vendor Discount GL Updater\JurisUtilityBase\bin\x86\Release\C1.Win.C1Report.4.dll
+D:\Projects\Vendor Discount GL Updater\JurisUtilityBase\bin\x86\Release\FarPoint.Win.Spread.dll
+D:\Projects\Vendor Discount GL Updater\JurisUtilityBase\bin\x86\Release\ActiveReports.Viewer6.dll
+D:\Projects\Vendor Discount GL Updater\JurisUtilityBase\bin\x86\Release\FarPoint.Win.dll
+D:\Projects\Vendor Discount GL Updater\JurisUtilityBase\bin\x86\Release\ActiveReports.XlsExport.dll
+D:\Projects\Vendor Discount GL Updater\JurisUtilityBase\bin\x86\Release\ActiveReports.PdfExport.dll
+D:\Projects\Vendor Discount GL Updater\JurisUtilityBase\bin\x86\Release\ActiveReports.TextExport.dll
+D:\Projects\Vendor Discount GL Updater\JurisUtilityBase\bin\x86\Release\ActiveReports.RtfExport.dll
+D:\Projects\Vendor Discount GL Updater\JurisUtilityBase\bin\x86\Release\ActiveReports.TiffExport.dll
+D:\Projects\Vendor Discount GL Updater\JurisUtilityBase\bin\x86\Release\ActiveReports.HtmlExport.dll
+D:\Projects\Vendor Discount GL Updater\JurisUtilityBase\bin\x86\Release\FarPoint.CalcEngine.dll
+D:\Projects\Vendor Discount GL Updater\JurisUtilityBase\bin\x86\Release\FarPoint.Excel.dll
+D:\Projects\Vendor Discount GL Updater\JurisUtilityBase\bin\x86\Release\FarPoint.Win.Chart.dll
+D:\Projects\Vendor Discount GL Updater\JurisUtilityBase\bin\x86\Release\FarPoint.PluginCalendar.WinForms.dll
+D:\Projects\Vendor Discount GL Updater\JurisUtilityBase\bin\x86\Release\FarPoint.PDF.dll
+D:\Projects\Vendor Discount GL Updater\JurisUtilityBase\bin\x86\Release\FarPoint.Localization.dll
+D:\Projects\Vendor Discount GL Updater\JurisUtilityBase\bin\x86\Release\FarPoint.CalcEngine.xml
+D:\Projects\Vendor Discount GL Updater\JurisUtilityBase\bin\x86\Release\FarPoint.Win.Chart.xml
+D:\Projects\Vendor Discount GL Updater\JurisUtilityBase\bin\x86\Release\FarPoint.PluginCalendar.WinForms.xml
+D:\Projects\Vendor Discount GL Updater\JurisUtilityBase\obj\x86\Release\JPS - Vendor GL Discount Account Updater.exe.manifest
+D:\Projects\Vendor Discount GL Updater\JurisUtilityBase\obj\x86\Release\JPS - Vendor GL Discount Account Updater.application
+D:\Projects\Vendor Discount GL Updater\JurisUtilityBase\obj\x86\Release\JurisUtilityBase.csproj.CopyComplete
